@@ -17,7 +17,7 @@
     },
     {
         "nombreFigura": "questionmark.diamond",
-        "colorFigura": nil,
+        "colorFigura": null,
         "tamanoFigura": {
             "width": 180,
             "height": 100
@@ -33,7 +33,7 @@
     },
     {
         "nombreFigura": "scissors",
-        "colorFigura": nil,
+        "colorFigura": null,
         "tamanoFigura": {
             "width": 190,
             "height": 170
